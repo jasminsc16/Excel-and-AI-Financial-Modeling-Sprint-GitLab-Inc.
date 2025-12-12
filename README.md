@@ -1,1 +1,1 @@
-# Excel-and-AI-Financial-Modeling-Sprint-GitLab-Inc.
+# Excel and AI Financial Modeling Sprint - GitLab Inc.

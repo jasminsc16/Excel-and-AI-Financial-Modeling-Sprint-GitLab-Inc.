@@ -1,3 +1,9 @@
 # Excel and AI Financial Modeling Sprint - GitLab Inc.
 
-I am partnering with the FP&A and Investor Relations teams at GitLab Inc. to build a full three-statement financial model and valuation framework supporting their long-range planning and capital allocation discussions. Leveraging GitLab’s latest 10-K, I’m extracting and standardizing historical Income Statement, Balance Sheet, and Cash Flow data, reconciling the statements end-to-end, and developing driver-based forecasts to evaluate operating efficiency, growth sustainability, and cash generation. In addition, I’m also reviewing analyst sentiment, assessing GitLab’s risk disclosures, and preparing a DCF valuation and insight deck for executive-level stakeholders.Financial modeling project analyzing GitLab Inc.'s 10-K SEC filing. I am partnering with the FP&A and Investor Relations teams at GitLab Inc. to build a full three-statement financial model and valuation framework supporting their long-range planning and capital allocation discussions. Leveraging GitLab’s latest 10-K, I’m extracting and standardizing historical Income Statement, Balance Sheet, and Cash Flow data, reconciling the statements end-to-end, and developing driver-based forecasts to evaluate operating efficiency, growth sustainability, and cash generation. In addition, I’m also reviewing analyst sentiment, assessing GitLab’s risk disclosures, and preparing a DCF valuation and insight deck for executive-level stakeholders.
+Via Extern.
+
+- Analyzing and interpreting financial data (income statement, balance sheet, cash flow statement) from SEC 10-K filings to understand GitLab Inc.’s operations, risks, and performance, including discounted cash flow (DCF) valuation
+
+- Executing financial ratios in Excel such as profit margin, current ratio, and cash ratio to build and refine an automatic forecasting tool
+
+- Developing a two-minute (elevator) pitch presentation using Power BI, highlighting actionable insights/trends to drive business growth

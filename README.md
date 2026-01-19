@@ -2,8 +2,12 @@
 
 Via Extern.
 
-- Analyzing and interpreting financial data (income statement, balance sheet, cash flow statement) from SEC 10-K filings to understand GitLab Inc.’s operations, risks, and performance, including discounted cash flow (DCF) valuation
-
-- Executing financial ratios in Excel such as profit margin, current ratio, and cash ratio to build and refine an automatic forecasting tool
-
-- Developing a two-minute (elevator) pitch presentation using Power BI, highlighting actionable insights/trends to drive business growth
+- Reviewed GitLab Inc.’s Form 10-K to understand the company’s business model, revenue streams, cost structure, and key risk factors.
+  
+- Built a comprehensive company snapshot (document and slide format) covering business segments, product tiers, competitive landscape, management tone, strategic positives, and risks.
+  
+- Extracted and standardized historical financial statements (Income Statement, Balance Sheet, and Cash Flow Statement) directly from SEC filings.
+  
+- Reconciled the three financial statements to validate internal consistency across cash flows, working capital movements, and retained earnings.
+  
+- Used GPT as an analytical support tool to accelerate research, clarify accounting treatment, and document assumptions and reconciliation logic.
